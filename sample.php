@@ -7,6 +7,7 @@
 <?php
 echo "Hello World!";
 echo "Siriki Murali!";
+echo "PHP with Drupal!";
 echo "Siriki Naga Sathwik!";
 ?>
 
