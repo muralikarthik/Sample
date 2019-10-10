@@ -7,7 +7,7 @@
 <?php
 echo "Hello World!";
 echo "Siriki Murali!";
-echo "Siriki Sathwik!";
+echo "Siriki Naga Sathwik!";
 ?>
 
 </body>
